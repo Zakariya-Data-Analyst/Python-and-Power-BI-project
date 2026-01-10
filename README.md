@@ -5,7 +5,6 @@ Ce projet consiste en une analyse complète du Kaggle Machine Learning & Data Sc
 L’objectif est de reproduire une démarche réaliste de Data Analyst, depuis le nettoyage des données brutes jusqu’à la création de tableaux de bord exploitables pour la prise de décision.
 
 Objectifs : 
-
 Comprendre le profil des professionnels de la data (rôles, niveaux d’expérience, formations)
 Analyser les technologies utilisées (langages, outils, environnements)
 Étudier les salaires, secteurs et zones géographiques
